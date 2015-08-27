@@ -1,2 +1,2 @@
 # PorkChops
-This is where I make porkchops. No other kinds of meats allowed.
+This is where I make pork chops. No other kinds of meats allowed.
